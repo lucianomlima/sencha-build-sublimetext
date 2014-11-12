@@ -1,0 +1,3 @@
+{
+	"cmd": ["sencha", "app", "build"]
+}
