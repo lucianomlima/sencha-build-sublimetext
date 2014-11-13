@@ -1,3 +1,6 @@
 {
-	"cmd": ["sencha", "app", "build"]
+	"cmd": ["sencha", "app", "build"],
+    "osx": {
+        "shell_cmd": "sencha app build"
+    }
 }
