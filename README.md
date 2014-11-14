@@ -11,7 +11,7 @@ Copy the file *Sencha Cmd.sublime-build* to the Sublime Text packages folder acc
 
 **Linux**
 
-~/.Sublime Text 3
+~/.Sublime Text 3/Packages/User
 
 **Mac OS X**
 
@@ -20,4 +20,4 @@ Copy the file *Sencha Cmd.sublime-build* to the Sublime Text packages folder acc
 **Windows**
 
 %APPDATA%\Sublime Text X
-ex.: C:\Users\Luciano\AppData\Roaming\Sublime Text 3
+ex.: C:\Users\Luciano\AppData\Roaming\Sublime Text 3\Packages\User
